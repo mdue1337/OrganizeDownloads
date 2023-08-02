@@ -1,0 +1,8 @@
+C:\Users\marti\Documents\Code Projects\script\OrganizeDownloadsFolder\OrganizeDownloadsFolder\bin\Debug\OrganizeDownloadsFolder.exe.config
+C:\Users\marti\Documents\Code Projects\script\OrganizeDownloadsFolder\OrganizeDownloadsFolder\bin\Debug\OrganizeDownloadsFolder.exe
+C:\Users\marti\Documents\Code Projects\script\OrganizeDownloadsFolder\OrganizeDownloadsFolder\bin\Debug\OrganizeDownloadsFolder.pdb
+C:\Users\marti\Documents\Code Projects\script\OrganizeDownloadsFolder\OrganizeDownloadsFolder\obj\Debug\OrganizeDownloadsFolder.csproj.AssemblyReference.cache
+C:\Users\marti\Documents\Code Projects\script\OrganizeDownloadsFolder\OrganizeDownloadsFolder\obj\Debug\OrganizeDownloadsFolder.csproj.SuggestedBindingRedirects.cache
+C:\Users\marti\Documents\Code Projects\script\OrganizeDownloadsFolder\OrganizeDownloadsFolder\obj\Debug\OrganizeDownloadsFolder.csproj.CoreCompileInputs.cache
+C:\Users\marti\Documents\Code Projects\script\OrganizeDownloadsFolder\OrganizeDownloadsFolder\obj\Debug\OrganizeDownloadsFolder.exe
+C:\Users\marti\Documents\Code Projects\script\OrganizeDownloadsFolder\OrganizeDownloadsFolder\obj\Debug\OrganizeDownloadsFolder.pdb
